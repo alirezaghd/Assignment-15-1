@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+
+}
+
+.row > * {
+    padding-right:0;
+    padding-left: 0;
+}
+
+#caption{
+    position: absolute;
+    left:0px;
+    bottom: 1%;
+    width: 20%;
+    font-size: 25px;
+    background-color: rgba(97, 97, 97, 0.795);
+
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: rgb(44, 156, 0) !important;
+}
+
